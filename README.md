@@ -11,7 +11,7 @@
   </a>
   
   <a href="mailto:wander.alves@outlook.com.br" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img alt="Outlook" src="[https://img.shields.io/badge/Outlook-c14438?style=for-the-badge&logo=Outlook&logoColor=white](https://img.shields.io/badge/Outlook?style=for-the-badge&logo=Outlook&logoColor=white)">
   </a>
 
   <br/> <br/>
